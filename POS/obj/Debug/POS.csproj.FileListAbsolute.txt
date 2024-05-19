@@ -1,0 +1,43 @@
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\bin\Debug\Guna.UI.dll
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.exe
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl2.resources
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\bin\Debug\POS.exe.config
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.exe
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.pdb
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\bin\Debug\POS.exe
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\bin\Debug\POS.pdb
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.Form1.resources
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.Properties.Resources.resources
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.UserControl1.resources
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.UserControl2.resources
+E:\TopUp Final Year Dgree\Advanced Development\Self Learn\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.exe
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.pdb
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\POS.exe
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\POS.pdb
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\mscorlib.dll
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\System.Net.Http.dll
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\System.Net.Http.xml
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\normidna.nlp
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\normnfc.nlp
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\normnfd.nlp
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\normnfkc.nlp
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\bin\Debug\normnfkd.nlp
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\Jeewantha\Desktop\TopUp Final Year Dgree\Advanced Development\CW1\Self Learn\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
